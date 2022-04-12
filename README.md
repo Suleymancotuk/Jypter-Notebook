@@ -1,0 +1,2 @@
+# Jypter-Notebook
+Bazı Çalışmalarım
